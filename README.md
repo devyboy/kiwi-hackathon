@@ -2,7 +2,8 @@
 **Plantae** is a web application that allows you to identify and learn about almost any plant you find.
 
 ## Getting Started
-Don't know how the UI will work yet, will update this section later.
+~Don't know how the UI will work yet, will update this section later.~
+It's a web app, just go to the URL and use it I guess.
 
 ## Installation
 **Plantae** is seperated into the *client* and *server*. The *client* folder contains the front end code and the *server* folder contains the back end code. To run **Plantae** locally, you'll need to run both of these parts at the same time as they communicate with eachother. 
