@@ -7,7 +7,7 @@
 - Devon Pirestani : Frontend
 
 ## Quickstart
-Head over to our [beta web deployment](https://dice-game-d967b.web.app/) to check it the latest changes, or our [main website](https://mygreenery.space/) if we are fully live by the time you're reading this README.
+Head over to our [beta web deployment](https://plantae-1.web.app/) to check it the latest changes, or our [main website](https://mygreenery.space/) if we are fully live by the time you're reading this README.
 
 ## Overview
 __Plantae__ is inspired by apps on the iOS App Store that claim to identify a plant based on taking a picture of it, but we wanted a tool for people who were into cultivating plants and already knew some limited information and simply wanted quick facts rather than rely on the accuracy of an automatic image matcher.
