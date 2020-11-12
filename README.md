@@ -3,17 +3,17 @@
 
 # Gallery
 <details>
-  <summary>Click here to view the image gallery</summary>
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/title.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/landing-start.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/landing-middle.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/landing-end.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/id-start.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/id-end.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/search.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/plant-page.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/more-fields.png" />
-  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/images.png" />
+  <summary>Click here to view the image gallery</summary><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/title.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/landing-start.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/landing-middle.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/landing-end.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/id-start.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/id-end.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/search.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/plant-page.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/more-fields.png" /><hr>
+  <img src="https://raw.githubusercontent.com/devyboy/plantae/master/screens/images.png" /><hr>
 </details>
 
 ## Project Members
